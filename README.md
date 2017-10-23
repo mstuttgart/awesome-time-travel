@@ -31,6 +31,7 @@ A collection of movies about time travel
 * [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film)) - 1993
 * [Looper](https://en.wikipedia.org/wiki/Looper_(film)) - 2012
 * [Edge of Tomorrow](https://en.wikipedia.org/wiki/Edge_of_Tomorrow) - 2014
+* [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Men in Black 3](https://en.wikipedia.org/wiki/Men_in_Black_3) - 2012
 
 ## Books
