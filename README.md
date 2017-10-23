@@ -3,9 +3,9 @@
 A collection of books, comics, films and whatever about time travel.
 
 * [Animations](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#animations)
+* [Books](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#books)
 * [Comics](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#comics)
 * [Movies](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#movies)
-* [Books](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#books)
 
 - - -
 
