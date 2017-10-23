@@ -1,4 +1,4 @@
-# Awesome Time Travel
+﻿# Awesome Time Travel
 
 A collection of books, comics, films and whatever about time travel.
 
@@ -22,9 +22,7 @@ A collection of anime and animations about time travel.
 A collection of scientific and not scientific books about time travel.
 
 * [A Wrinkle in Time](https://en.wikipedia.org/wiki/A_Wrinkle_in_Time) - Madeleine L'Engle - 1962
-<<<<<<< HEAD
 * [11/22/63](https://en.wikipedia.org/wiki/11/22/63) - Stephen King - 2011
-=======
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
 
@@ -37,7 +35,7 @@ A collection of comics, manga about time travel.
 ## Movies
 
 A collection of movies about time travel.
->>>>>>> upstream/master
+
 
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
