@@ -16,7 +16,7 @@ Collection of anime and animations about time travel
 
 ## Movies
 
-Colections of movies about time travel
+Collections of movies about time travel
 
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
@@ -24,7 +24,9 @@ Colections of movies about time travel
 
 ## Books
 
-A collection of scintific and not scientific books about time travel.
+A collection of scientific and not scientific books about time travel.
 
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
+* [A Wrinkle in Time](https://en.wikipedia.org/wiki/A_Wrinkle_in_Time) - Madeleine L'Engle - 1962
+
