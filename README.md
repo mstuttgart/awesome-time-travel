@@ -11,7 +11,7 @@ A collection of books, comics, films and whatever about time travel.
 
 ## Animations
 
-A collection of anime and animations about time travel
+A collection of anime and animations about time travel.
 
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
 
@@ -31,7 +31,7 @@ A collection of comics, manga about time travel.
 
 ## Movies
 
-A collection of movies about time travel
+A collection of movies about time travel.
 
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
