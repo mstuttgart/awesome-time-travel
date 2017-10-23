@@ -43,3 +43,4 @@ A collection of movies about time travel.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 * [Hot Tub Time Machine](https://en.wikipedia.org/wiki/Hot_Tub_Time_Machine) - 2010
+* [Déjà Vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)) - 2006
