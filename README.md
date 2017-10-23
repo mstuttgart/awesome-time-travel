@@ -30,4 +30,5 @@ A collection of scientific and not scientific books about time travel.
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [A Wrinkle in Time](https://en.wikipedia.org/wiki/A_Wrinkle_in_Time) - Madeleine L'Engle - 1962
+* [Bid Time Return](https://en.wikipedia.org/wiki/Bid_Time_Return) - Richard Matheson - 1975
 
