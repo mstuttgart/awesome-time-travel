@@ -3,6 +3,7 @@
 A collection of books, comics, films and whatever about time travel.
 
 * [Animations](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#animations)
+* [Comics](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#comics)
 * [Movies](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#movies)
 * [Books](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#books)
 
@@ -10,13 +11,19 @@ A collection of books, comics, films and whatever about time travel.
 
 ## Animations
 
-Collection of anime and animations about time travel
+A collection of anime and animations about time travel
 
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
 
+## Comics
+
+A collection of comics, manga about time travel.
+
+* [All_You_Need_Is_Kill](https://en.wikipedia.org/wiki/All_You_Need_Is_Kill) - Hiroshi Sakurazaka (Novel) - 2004 and Ryōsuke Takeuchi and Takeshi Obata (Manga) - 2014
+
 ## Movies
 
-Collections of movies about time travel
+A collection of movies about time travel
 
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
