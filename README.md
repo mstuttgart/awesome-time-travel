@@ -18,6 +18,7 @@ Collection of anime and animations about time travel
 
 Collections of movies about time travel
 
+* [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 * [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film)) - 1993
