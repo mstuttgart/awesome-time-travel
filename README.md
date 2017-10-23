@@ -20,6 +20,7 @@ Colections of movies about time travel
 
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
+* [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film)) - 1993
 
 
 ## Books
