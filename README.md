@@ -34,6 +34,7 @@ A collection of scientific and not scientific books about time travel.
 * [Lightning](https://en.wikipedia.org/wiki/Lightning_(novel)) - Dean Koontz - 1988
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
+* [Time Salvager](https://www.goodreads.com/book/show/23168818-time-salvager) - Wesley Chu - 2015. Typical 'Earth is a wasteland' future sci-fi but with a twist, people are sent back in time to retrieve resources and info to be used in the present.
 * [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife) - Audrey Niffenegger - 2003. A love story about a man who travels through time, and what his wife deals with his random disappearances.
 
 ## Comics
