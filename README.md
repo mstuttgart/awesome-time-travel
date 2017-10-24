@@ -7,6 +7,7 @@ A collection of books, comics, films and whatever about time travel.
 * [Comics](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#comics)
 * [Movies](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#movies)
 * [TV Series](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#tv-series)
+* [Video Games](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#video-games)
 
 - - -
 
@@ -69,3 +70,9 @@ A collection of television shows about time travel
 * [11/22/63](https://en.wikipedia.org/wiki/11.22.63) - 2016
 * [The Flash](https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)) - 2014
 * [Terminator: The Sarah Connor Chronicles](https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles) - 2009
+
+## Video Games
+
+A collection of video games about time travel.
+
+* [Bioshock: Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) - Irrational Games - 2013 
