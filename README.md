@@ -15,8 +15,13 @@ A collection of books, comics, films and whatever about time travel.
 A collection of anime and animations about time travel.
 
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
+<<<<<<< HEAD
 * [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
 
+=======
+* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006 
+* [Erased](https://en.wikipedia.org/wiki/Erased_(manga)) - Kei Sanbe (Manga) - 2016
+>>>>>>> Added 1 movie and 1 anime
 
 ## Books
 
@@ -54,6 +59,11 @@ A collection of movies about time travel.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
+<<<<<<< HEAD
+=======
+* [Harry Potter and the Prisoner of Azkaban](http://www.imdb.com/title/tt0304141/) - Harry and Hermione travel back in time using a Timer Turner (2004).
+* [Project Almanac](https://en.wikipedia.org/wiki/Project_Almanac) - Dean Israelite - 2006 - Group of teens who build a time machine. Chaos insues.
+>>>>>>> Added 1 movie and 1 anime
 
 ## TV_Shows
 
