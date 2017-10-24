@@ -41,4 +41,5 @@ A collection of movies about time travel.
 * [Looper](https://en.wikipedia.org/wiki/Looper_(film)) - 2012
 * [Men in Black 3](https://en.wikipedia.org/wiki/Men_in_Black_3) - 2012
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
+* [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
