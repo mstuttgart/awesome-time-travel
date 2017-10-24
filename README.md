@@ -14,6 +14,7 @@ A collection of books, comics, films and whatever about time travel.
 A collection of anime and animations about time travel.
 
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
+* [Rockman EXE - Stream](https://en.wikipedia.org/wiki/List_of_MegaMan_NT_Warrior_episodes_(Stream)) - 2004
 
 ## Books
 
@@ -42,3 +43,4 @@ A collection of movies about time travel.
 * [Men in Black 3](https://en.wikipedia.org/wiki/Men_in_Black_3) - 2012
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
+
