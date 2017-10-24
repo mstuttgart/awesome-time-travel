@@ -18,6 +18,7 @@
 A collection of anime and animations about time travel.
 
 * [Erased](https://en.wikipedia.org/wiki/Erased_(manga)) - Kei Sanbe (Manga) - 2016
+* [Re:Zero − Starting Life in Another World](https://en.wikipedia.org/wiki/Re:Zero_−_Starting_Life_in_Another_World) - 2016
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
 * [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
 
