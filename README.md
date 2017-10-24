@@ -6,6 +6,7 @@ A collection of books, comics, films and whatever about time travel.
 * [Books](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#books)
 * [Comics](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#comics)
 * [Movies](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#movies)
+* [TV Shows](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#tv_shows)
 
 - - -
 
@@ -55,3 +56,6 @@ A collection of movies about time travel.
 * [Project Almanac](https://en.wikipedia.org/wiki/Project_Almanac) - Dean Israelite - 2006 - Group of teens who build a time machine. Chaos insues.
 
 
+## TV_Shows
+
+A collection of television shows about time travel
