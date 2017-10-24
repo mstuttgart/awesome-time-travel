@@ -1,4 +1,4 @@
-# Awesome Time Travel
+﻿# Awesome Time Travel
 
 A collection of books, comics, films and whatever about time travel.
 
@@ -14,11 +14,14 @@ A collection of books, comics, films and whatever about time travel.
 A collection of anime and animations about time travel.
 
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
+* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006 
+
 
 ## Books
 
 A collection of scientific and not scientific books about time travel.
 
+* [11/22/63](https://en.wikipedia.org/wiki/11/22/63) - Stephen King - 2011
 * [A Wrinkle in Time](https://en.wikipedia.org/wiki/A_Wrinkle_in_Time) - Madeleine L'Engle - 1962
 * [Bid Time Return](https://en.wikipedia.org/wiki/Bid_Time_Return) - Richard Matheson - 1975
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
@@ -33,6 +36,7 @@ A collection of comics, manga about time travel.
 ## Movies
 
 A collection of movies about time travel.
+
 
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
