@@ -40,6 +40,7 @@ A collection of scientific and not scientific books about time travel.
 A collection of comics, manga about time travel.
 
 * [All You Need Is Kill](https://en.wikipedia.org/wiki/All_You_Need_Is_Kill) - Hiroshi Sakurazaka (Novel) - 2004 and Ryōsuke Takeuchi and Takeshi Obata (Manga) - 2014
+* [RoboCop versus The Terminator](https://en.wikipedia.org/wiki/RoboCop_Versus_The_Terminator_(comics)) - Frank Miller - 1992
 
 ## Movies
 
