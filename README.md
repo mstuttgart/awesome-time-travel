@@ -30,9 +30,9 @@ A collection of scientific and not scientific books about time travel.
 * [Lightning](https://en.wikipedia.org/wiki/Lightning_(novel)) - Dean Koontz - 1988
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
+* [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife) - Audrey Niffenegger 2003 and adapted into a [film](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife_(film)) in 2009. A love story about a man who travels through time unexpectedly due to a genetic disorder, and what his wife deals with his random and sometimes dangerous disappearances.
 
 ## Comics
-
 A collection of comics, manga about time travel.
 
 * [All You Need Is Kill](https://en.wikipedia.org/wiki/All_You_Need_Is_Kill) - Hiroshi Sakurazaka (Novel) - 2004 and Ryōsuke Takeuchi and Takeshi Obata (Manga) - 2014
