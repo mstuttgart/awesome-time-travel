@@ -30,7 +30,7 @@ A collection of scientific and not scientific books about time travel.
 * [Lightning](https://en.wikipedia.org/wiki/Lightning_(novel)) - Dean Koontz - 1988
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
-* [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife) - Audrey Niffenegger 2003 and adapted into a [film](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife_(film)) in 2009. A love story about a man who travels through time unexpectedly due to a genetic disorder, and what his wife deals with his random and sometimes dangerous disappearances.
+* [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife) - Audrey Niffenegger - 2003. A love story about a man who travels through time, and what his wife deals with his random disappearances.
 
 ## Comics
 A collection of comics, manga about time travel.
@@ -60,6 +60,7 @@ A collection of movies about time travel.
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
+* [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife_(film)) - 2009 - A love story about a man who travels through time, and what his wife deals with his random disappearances.
 * [X-men: Days of Future Past](http://www.imdb.com/title/tt1877832/) - Wolverine is sent to the past to prevent an event that results in doom for both humans and mutants (2014).
 
 ## TV Series
