@@ -85,6 +85,7 @@ A collection of television shows about time travel
 A collection of video games about time travel.
 
 * [Bioshock: Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) - Irrational Games - 2013
+* [Chronos Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger) - Square - 1995
 
 ## Contribute
 
