@@ -52,9 +52,14 @@ A collection of movies about time travel.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
+<<<<<<< HEAD
 * [Harry Potter and the Prisoner of Azkaban](http://www.imdb.com/title/tt0304141/) - Harry and Hermione travel back in time using a Timer Turner (2004).
 
 
 ## TV_Shows
 
 A collection of television shows about time travel
+=======
+* [Hot Tub Time Machine](https://en.wikipedia.org/wiki/Hot_Tub_Time_Machine) - 2010
+* [Déjà Vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)) - 2006
+>>>>>>> fa8b3759df672b5ccac4a564361bcf427901c160
