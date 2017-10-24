@@ -19,10 +19,9 @@ A collection of anime and animations about time travel.
 
 * [Erased](https://en.wikipedia.org/wiki/Erased_(manga)) - Kei Sanbe (Manga) - 2016
 * [Re:Zero − Starting Life in Another World](https://en.wikipedia.org/wiki/Re:Zero_−_Starting_Life_in_Another_World) - 2016
+* [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty) - 2013
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
 * [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
-* [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty) - 2013
-
 
 ## Books
 
@@ -48,6 +47,7 @@ A collection of movies about time travel.
 
 * [About Time](https://en.wikipedia.org/wiki/About_Time_(2013_film)) - A young british man with the ability to time travel (2013)
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
+* [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)) - A linguist learns an alien language that allows her to perceive the future and the past (2016).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
 * [Bill and Ted's Excellent Adventure](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure) - Stephen Herek - 1989
 * [Déjà Vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)) - 2006
@@ -67,7 +67,6 @@ A collection of movies about time travel.
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 * [X-men: Days of Future Past](http://www.imdb.com/title/tt1877832/) - Wolverine is sent to the past to prevent an event that results in doom for both humans and mutants (2014).
-* [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)) - A linguist learns an alien language that allows her to perceive the future and the past (2016).
 
 ## TV Series
 
