@@ -16,7 +16,7 @@ A collection of anime and animations about time travel.
 
 * [Erased](https://en.wikipedia.org/wiki/Erased_(manga)) - Kei Sanbe (Manga) - 2016
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
-* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006 
+* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
 
 
 ## Books
@@ -64,3 +64,6 @@ A collection of movies about time travel.
 ## TV_Shows
 
 A collection of television shows about time travel
+
+* [The Flash](https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)) - 2014
+* [Terminator: The Sarah Connor Chronicles](https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles) - 2009
