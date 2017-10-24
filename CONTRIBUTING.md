@@ -5,7 +5,7 @@ Your contributions are always welcome!
 ## Guidelines
 
 * Add one link per Pull Request.
-* Add the link: `* [comic/books/movie(http://example.com/) - A short description ends with a period.`
+* Add the link: `* [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) - 1963 - British science-fiction television programme produced by the BBC.
     * Keep descriptions concise.
 * If possible, add some more data: the date published, the author, the company name if the resource is done by a company.
 * Add a section if needed.
