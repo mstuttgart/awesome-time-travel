@@ -6,7 +6,7 @@ A collection of books, comics, films and whatever about time travel.
 * [Books](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#books)
 * [Comics](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#comics)
 * [Movies](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#movies)
-* [TV Series](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#tv-series)
+* [TV Shows](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#tv_shows)
 
 - - -
 
@@ -62,7 +62,7 @@ A collection of movies about time travel.
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 
 
-## TV Series
+## TV_Shows
 
 A collection of television shows about time travel
 
