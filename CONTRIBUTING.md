@@ -1,20 +1,5 @@
 # Contributing
+Monika Bhardwaj
 
-Your contributions are always welcome!
-
-## Guidelines
-
-* Add one link per Pull Request.
-* Add the link: `* [comic/books/movie(http://example.com/) - A short description ends with a period.`
-    * Keep descriptions concise.
-* If possible, add some more data: the date published, the author, the company name if the resource is done by a company.
-* Add a section if needed.
-    * Add the section description.
-    * Add the section title to Table of Contents.
-* Search previous suggestions before making a new one, as yours may be a duplicate.
-* Check your spelling and grammar.
-* Remove any trailing whitespace.
-
-Lets do this awesome!
-
-Ps.: this guideline was inspired in [awesome-python](https://github.com/vinta/awesome-python) project guideline.
+## Movie - Devaju (http://www.imdb.com/title/tt0453467/) - A ferry filled with crewmen from the USS Nimitz and their families was blown up in New Orleans on Mardi Gras. BATF Doug Carlin is brought in to assist in the massive investigation, and gets attached to an experimental FBI surveillance unit, one that uses spacefolding technology to directly look back a little over four days into the past.
+Giithub [monikabhardwaj]()
