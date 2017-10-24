@@ -23,6 +23,7 @@ A collection of scientific and not scientific books about time travel.
 * [Bid Time Return](https://en.wikipedia.org/wiki/Bid_Time_Return) - Richard Matheson - 1975
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
+* [An Echo in the Bone] (https://en.wikipedia.org/wiki/An_Echo_in_the_Bone) - Diana Gabaldon - 2009
 
 ## Comics
 
@@ -43,4 +44,5 @@ A collection of movies about time travel.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 * [Devaju] (https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film) - 2006
+
 
