@@ -66,6 +66,8 @@ A collection of movies about time travel.
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
+* [The Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)) - 1960
+* [The Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine_(2002_film)) - 2002
 * [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife_(film)) - 2009 - A love story about a man who travels through time, and what his wife deals with his random disappearances.
 * [X-men: Days of Future Past](http://www.imdb.com/title/tt1877832/) - Wolverine is sent to the past to prevent an event that results in doom for both humans and mutants (2014).
 
@@ -81,7 +83,7 @@ A collection of television shows about time travel
 
 A collection of video games about time travel.
 
-* [Bioshock: Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) - Irrational Games - 2013 
+* [Bioshock: Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) - Irrational Games - 2013
 
 ## Contribute
 
