@@ -61,6 +61,7 @@ A collection of movies about time travel.
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 * [X-men: Days of Future Past](http://www.imdb.com/title/tt1877832/) - Wolverine is sent to the past to prevent an event that results in doom for both humans and mutants (2014).
+* [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)) - A linguist learns an alien language that allows her to perceive the future and the past (2016).
 
 ## TV Series
 
