@@ -65,6 +65,7 @@ A collection of movies about time travel.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
+* [The Butterfly Effect](https://en.wikipedia.org/wiki/The_Butterfly_Effect) - 2004
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 * [The Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)) - 1960
 * [The Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine_(2002_film)) - 2002
