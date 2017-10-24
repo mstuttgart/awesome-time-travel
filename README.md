@@ -15,7 +15,7 @@ A collection of books, comics, films and whatever about time travel.
 A collection of anime and animations about time travel.
 
 * [Erased](https://en.wikipedia.org/wiki/Erased_(manga)) - Kei Sanbe (Manga) - 2016
-* [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
+* [Steins;Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
 * [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006 
 
 
@@ -27,7 +27,6 @@ A collection of scientific and not scientific books about time travel.
 * [An Echo in the Bone](https://en.wikipedia.org/wiki/An_Echo_in_the_Bone) - Diana Gabaldon - 2009
 * [A Wrinkle in Time](https://en.wikipedia.org/wiki/A_Wrinkle_in_Time) - Madeleine L'Engle - 1962
 * [Bid Time Return](https://en.wikipedia.org/wiki/Bid_Time_Return) - Richard Matheson - 1975
-* [Lightning](https://en.wikipedia.org/wiki/Lightning_(novel)) - Dean Koontz - 1988
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
 
