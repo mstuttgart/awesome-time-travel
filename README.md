@@ -8,6 +8,7 @@ A collection of books, comics, films and whatever about time travel.
 * [Movies](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#movies)
 * [TV Shows](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#tv-shows)
 
+
 - - -
 
 ## Animations
@@ -40,15 +41,19 @@ A collection of movies about time travel.
 * [About Time](https://en.wikipedia.org/wiki/About_Time_(2013_film)) - A young british man with the ability to time travel (2013)
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
+* [Déjà Vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)) - 2006
 * [Edge of Tomorrow](https://en.wikipedia.org/wiki/Edge_of_Tomorrow) - 2014
+* [Escape from the Planet of the Apes](https://en.wikipedia.org/wiki/Escape_from_the_Planet_of_the_Apes) - 1971
 * [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film)) - 1993
+* [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film)) - Explorers travel through a wormhole to save humanity (2014).
 * [Looper](https://en.wikipedia.org/wiki/Looper_(film)) - 2012
 * [Men in Black 3](https://en.wikipedia.org/wiki/Men_in_Black_3) - 2012
 * [Predestination](https://en.wikipedia.org/wiki/Predestination_(film)) - 2014
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
+* [Harry Potter and the Prisoner of Azkaban](http://www.imdb.com/title/tt0304141/) - Harry and Hermione travel back in time using a Timer Turner (2004).
 
-## TV-Shows
+## TV_Shows
 
-A collection of tv shows about time travel.
+A collection of television shows about time travel.
