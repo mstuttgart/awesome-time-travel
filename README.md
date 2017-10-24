@@ -21,6 +21,7 @@ A collection of anime and animations about time travel.
 * [Re:Zero − Starting Life in Another World](https://en.wikipedia.org/wiki/Re:Zero_−_Starting_Life_in_Another_World) - 2016
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
 * [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
+* [Rick and Morty](https://en.wikipedia.org/wiki/Rick_and_Morty) - 2013
 
 
 ## Books
@@ -66,6 +67,7 @@ A collection of movies about time travel.
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 * [X-men: Days of Future Past](http://www.imdb.com/title/tt1877832/) - Wolverine is sent to the past to prevent an event that results in doom for both humans and mutants (2014).
+* [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)) - A linguist learns an alien language that allows her to perceive the future and the past (2016).
 
 ## TV Series
 
