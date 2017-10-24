@@ -5,7 +5,7 @@ Your contributions are always welcome!
 ## Guidelines
 
 * Add one link per Pull Request.
-* Add the link: `* [comic/books/movie(http://example.com/) - A short description ends with a period.`
+* Add the link: [Donnie Darko](https://en.wikipedia.org/wiki/Donnie_Darko) - 2001 - Science fiction film written and directed by Richard Kelly.
     * Keep descriptions concise.
 * If possible, add some more data: the date published, the author, the company name if the resource is done by a company.
 * Add a section if needed.
