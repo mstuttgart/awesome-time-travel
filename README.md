@@ -14,9 +14,8 @@ A collection of books, comics, films and whatever about time travel.
 
 A collection of anime and animations about time travel.
 
-* [Erased](https://en.wikipedia.org/wiki/Erased_(manga)) - Kei Sanbe (Manga) - 2016
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
-* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006 
+* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
 
 
 ## Books
@@ -40,7 +39,7 @@ A collection of comics, manga about time travel.
 ## Movies
 
 A collection of movies about time travel.
-
+* [Donnie Darko](https://en.wikipedia.org/wiki/Donnie_Darko) - Science fiction film written and directed by Richard Kelly (2001).
 * [About Time](https://en.wikipedia.org/wiki/About_Time_(2013_film)) - A young british man with the ability to time travel (2013)
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
@@ -54,13 +53,13 @@ A collection of movies about time travel.
 * [Looper](https://en.wikipedia.org/wiki/Looper_(film)) - 2012
 * [Men in Black 3](https://en.wikipedia.org/wiki/Men_in_Black_3) - 2012
 * [Predestination](https://en.wikipedia.org/wiki/Predestination_(film)) - 2014
-* [Project Almanac](https://en.wikipedia.org/wiki/Project_Almanac) - Dean Israelite - 2006 - Group of teens who build a time machine. Chaos insues.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
 
-
 ## TV_Shows
 
 A collection of television shows about time travel
+
+* [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) - British science-fiction television programme produced by the BBC (1963 - present).
