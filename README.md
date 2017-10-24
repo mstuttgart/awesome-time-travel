@@ -44,6 +44,7 @@ A collection of movies about time travel.
 * [About Time](https://en.wikipedia.org/wiki/About_Time_(2013_film)) - A young british man with the ability to time travel (2013)
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
+* [Bill and Ted's Excellent Adventure](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure) - Stephen Herek - 1989
 * [Déjà Vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)) - 2006
 * [Edge of Tomorrow](https://en.wikipedia.org/wiki/Edge_of_Tomorrow) - 2014
 * [Escape from the Planet of the Apes](https://en.wikipedia.org/wiki/Escape_from_the_Planet_of_the_Apes) - 1971
