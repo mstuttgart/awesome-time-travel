@@ -16,7 +16,7 @@ A collection of anime and animations about time travel.
 
 * [Erased](https://en.wikipedia.org/wiki/Erased_(manga)) - Kei Sanbe (Manga) - 2016
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
-* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
+* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006 
 
 
 ## Books
@@ -49,8 +49,6 @@ A collection of movies about time travel.
 * [Edge of Tomorrow](https://en.wikipedia.org/wiki/Edge_of_Tomorrow) - 2014
 * [Escape from the Planet of the Apes](https://en.wikipedia.org/wiki/Escape_from_the_Planet_of_the_Apes) - 1971
 * [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film)) - 1993
-* [Harry Potter and the Prisoner of Azkaban](http://www.imdb.com/title/tt0304141/) - Harry and Hermione travel back in time using a Timer Turner (2004).
-* [Hot Tub Time Machine](https://en.wikipedia.org/wiki/Hot_Tub_Time_Machine) - 2010
 * [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film)) - Explorers travel through a wormhole to save humanity (2014).
 * [Looper](https://en.wikipedia.org/wiki/Looper_(film)) - 2012
 * [Men in Black 3](https://en.wikipedia.org/wiki/Men_in_Black_3) - 2012
@@ -60,6 +58,9 @@ A collection of movies about time travel.
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
+* [Harry Potter and the Prisoner of Azkaban](http://www.imdb.com/title/tt0304141/) - Harry and Hermione travel back in time using a Timer Turner (2004).
+* [X-men: Days of Future Past](http://www.imdb.com/title/tt1877832/) - Wolverine is sent to the past to prevent an event that results in doom for both humans and mutants (2014).
+
 
 
 ## TV_Shows
