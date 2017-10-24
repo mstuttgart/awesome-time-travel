@@ -16,13 +16,14 @@ A collection of books, comics, films and whatever about time travel.
 A collection of anime and animations about time travel.
 
 * [Steins Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
-* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006 
+* [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
 
 
 ## Books
 
 A collection of scientific and not scientific books about time travel.
 
+* [11/22/63](https://en.wikipedia.org/wiki/11/22/63) - Stephen King - 2011
 * [A Wrinkle in Time](https://en.wikipedia.org/wiki/A_Wrinkle_in_Time) - Madeleine L'Engle - 1962
 * [Bid Time Return](https://en.wikipedia.org/wiki/Bid_Time_Return) - Richard Matheson - 1975
 * [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
@@ -45,6 +46,8 @@ A collection of movies about time travel.
 * [Edge of Tomorrow](https://en.wikipedia.org/wiki/Edge_of_Tomorrow) - 2014
 * [Escape from the Planet of the Apes](https://en.wikipedia.org/wiki/Escape_from_the_Planet_of_the_Apes) - 1971
 * [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day_(film)) - 1993
+* [Harry Potter and the Prisoner of Azkaban](http://www.imdb.com/title/tt0304141/) - Harry and Hermione travel back in time using a Timer Turner (2004).
+* [Hot Tub Time Machine](https://en.wikipedia.org/wiki/Hot_Tub_Time_Machine) - 2010
 * [Interstellar](https://en.wikipedia.org/wiki/Interstellar_(film)) - Explorers travel through a wormhole to save humanity (2014).
 * [Looper](https://en.wikipedia.org/wiki/Looper_(film)) - 2012
 * [Men in Black 3](https://en.wikipedia.org/wiki/Men_in_Black_3) - 2012
@@ -52,7 +55,6 @@ A collection of movies about time travel.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
-* [Harry Potter and the Prisoner of Azkaban](http://www.imdb.com/title/tt0304141/) - Harry and Hermione travel back in time using a Timer Turner (2004).
 
 ## TV_Shows
 
