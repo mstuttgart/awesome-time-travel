@@ -31,8 +31,8 @@ A collection of scientific and not scientific books about time travel.
 * [An Echo in the Bone](https://en.wikipedia.org/wiki/An_Echo_in_the_Bone) - Diana Gabaldon - 2009
 * [A Wrinkle in Time](https://en.wikipedia.org/wiki/A_Wrinkle_in_Time) - Madeleine L'Engle - 1962
 * [Bid Time Return](https://en.wikipedia.org/wiki/Bid_Time_Return) - Richard Matheson - 1975
+* [Dechronization of Sam Magruder, The](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [Lightning](https://en.wikipedia.org/wiki/Lightning_(novel)) - Dean Koontz - 1988
-* [The Dechronization of Sam Magruder](https://www.goodreads.com/book/show/57234.The_Dechronization_of_Sam_Magruder) - George Gaylord Simpson - 1997
 * [Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine) - H.G. Wells - 1895
 * [Time Salvager](https://www.goodreads.com/book/show/23168818-time-salvager) - Wesley Chu - 2015. Typical 'Earth is a wasteland' future sci-fi but with a twist, people are sent back in time to retrieve resources and info to be used in the present.
 * [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife) - Audrey Niffenegger - 2003. A love story about a man who travels through time, and what his wife deals with his random disappearances.
@@ -50,8 +50,11 @@ A collection of movies about time travel.
 * [About Time](https://en.wikipedia.org/wiki/About_Time_(2013_film)) - A young british man with the ability to time travel (2013)
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)) - A linguist learns an alien language that allows her to perceive the future and the past (2016).
-* [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future_(franchise)) - 1985
+* [Back to the Future](https://en.wikipedia.org/wiki/Back_to_the_Future) - 1985
+* [Back to the Future II](https://en.wikipedia.org/wiki/Back_to_the_Future_Part_II) - 1989
+* [Back to the Future III](https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III) - 1990
 * [Bill and Ted's Excellent Adventure](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure) - Stephen Herek - 1989
+* [Butterfly Effect, The](https://en.wikipedia.org/wiki/The_Butterfly_Effect) - 2004
 * [Déjà Vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)) - 2006
 * [Edge of Tomorrow](https://en.wikipedia.org/wiki/Edge_of_Tomorrow) - 2014
 * [Escape from the Planet of the Apes](https://en.wikipedia.org/wiki/Escape_from_the_Planet_of_the_Apes) - 1971
@@ -67,13 +70,15 @@ A collection of movies about time travel.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
+* [Terminator, The](https://en.wikipedia.org/wiki/The_Terminator) - 1984
+* [Terminator 2: Judgment Day](https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day) - 1984
 * [Terminator 3: Rise of the Machines](https://en.wikipedia.org/wiki/Terminator_3:_Rise_of_the_Machines) - A cybernetic warrior from a post-apocalyptic future travels back in time to protect a 25-year old drifter and his future wife (2003).
-* [The Butterfly Effect](https://en.wikipedia.org/wiki/The_Butterfly_Effect) - 2004
-* [The Terminator](https://en.wikipedia.org/wiki/Terminator_(franchise)) - 1984
-* [The Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)) - 1960
-* [The Time Machine](https://en.wikipedia.org/wiki/The_Time_Machine_(2002_film)) - 2002
+* [Terminator 4: Salvation](https://en.wikipedia.org/wiki/Terminator_Salvation) - 2009
+* [Terminator 5: Genisys](https://en.wikipedia.org/wiki/Terminator_Genisys) - 2015
+* [Time Machine, The](https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)) - 1960
+* [Time Machine, The](https://en.wikipedia.org/wiki/The_Time_Machine_(2002_film)) - 2002
 * [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife_(film)) - 2009 - A love story about a man who travels through time, and what his wife deals with his random disappearances.
-* [X-men: Days of Future Past](http://www.imdb.com/title/tt1877832/) - Wolverine is sent to the past to prevent an event that results in doom for both humans and mutants (2014).
+* [X-Men: Days of Future Past](http://www.imdb.com/title/tt1877832/) - Wolverine is sent to the past to prevent an event that results in doom for both humans and mutants (2014).
 
 ## TV Series
 
