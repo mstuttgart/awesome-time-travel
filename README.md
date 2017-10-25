@@ -4,12 +4,15 @@
 
 ## Contents
 
-* [Animations](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#animations)
-* [Books](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#books)
-* [Comics](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#comics)
-* [Movies](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#movies)
-* [TV Series](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#tv-series)
-* [Video Games](https://github.com/mstuttgart/awesome-time-travel/blob/master/README.md#video-games)
+- [Awesome Time Travel](#awesome-time-travel)
+  - [Animations](#animations)
+  - [Books](#books)
+  - [Comics](#comics)
+  - [Movies](#movies)
+  - [TV Series](#tv-series)
+  - [Video Games](#video-games)
+  - [Video Games](#video-games)
+- [Contributing](#contributing)
 
 - - -
 
@@ -98,6 +101,6 @@ A collection of video games about time travel.
 * [Chronos Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger) - Square - 1995
 * [RoboCop versus The Terminator](https://en.wikipedia.org/wiki/RoboCop_Versus_The_Terminator) - Interplay - 1994
 
-## Contribute
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
