@@ -91,10 +91,10 @@ A collection of movies about time travel.
 A collection of television shows about time travel
 
 * [11/22/63](https://en.wikipedia.org/wiki/11.22.63) - 2016
+* [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) - 1963 to present
 * [Quantum Leap](https://en.wikipedia.org/wiki/Quantum_Leap) - 1993
 * [The Flash](https://en.wikipedia.org/wiki/The_Flash_(2014_TV_series)) - 2014
 * [Terminator: The Sarah Connor Chronicles](https://en.wikipedia.org/wiki/Terminator:_The_Sarah_Connor_Chronicles) - 2009
-* [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who) - 1963 to present
 
 ## Video Games
 
