@@ -7,7 +7,7 @@ Your contributions are always welcome!
 * Add one link per Pull Request.
 * Add the link: `* [comic/books/movie(http://example.com/) - A short description ends with a period.`
     * Keep descriptions concise.
-    * Add link in alphabetical order.
+    * **Add link in alphabetical order.**
 * If possible, add some more data: the date published, the author, the company name if the resource is done by a company.
 * Add a section if needed.
     * Add the section description.
