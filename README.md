@@ -71,6 +71,7 @@ A collection of movies about time travel.
 * [Meet the Robinsons](https://en.wikipedia.org/wiki/Meet_the_Robinsons) - 2007
 * [Men in Black 3](https://en.wikipedia.org/wiki/Men_in_Black_3) - 2012
 * [Naked](https://en.wikipedia.org/wiki/Naked_(2017_film)) - 2017
+* [O Homem do Futuro](https://pt.wikipedia.org/wiki/O_Homem_do_Futuro) - 2011
 * [Predestination](https://en.wikipedia.org/wiki/Predestination_(film)) - 2014
 * [Project Almanac](https://en.wikipedia.org/wiki/Project_Almanac) - Dean Israelite - 2006 - Group of teens who build a time machine. Chaos insues.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
