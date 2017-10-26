@@ -58,6 +58,7 @@ A collection of movies about time travel.
 * [Back to the Future III](https://en.wikipedia.org/wiki/Back_to_the_Future_Part_III) - 1990
 * [Bill and Ted's Excellent Adventure](https://en.wikipedia.org/wiki/Bill_%26_Ted%27s_Excellent_Adventure) - Stephen Herek - 1989
 * [Butterfly Effect, The](https://en.wikipedia.org/wiki/The_Butterfly_Effect) - 2004
+* [Click](https://en.wikipedia.org/wiki/Click_(2006_film)) - 2006
 * [Déjà Vu](https://en.wikipedia.org/wiki/D%C3%A9j%C3%A0_Vu_(2006_film)) - 2006
 * [Edge of Tomorrow](https://en.wikipedia.org/wiki/Edge_of_Tomorrow) - 2014
 * [Escape from the Planet of the Apes](https://en.wikipedia.org/wiki/Escape_from_the_Planet_of_the_Apes) - 1971
