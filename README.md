@@ -26,6 +26,9 @@ A collection of anime and animations about time travel.
 * [Samurai Jack](https://en.wikipedia.org/wiki/Samurai_Jack) - 2001
 * [Steins;Gate](https://en.wikipedia.org/wiki/Steins;Gate_(anime)) - 2011
 * [The Girl Who Leapt Through Time](https://en.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time_(2006_film)) - 2006
+* [Inuyasha](https://en.wikipedia.org/wiki/Inuyasha) - 2000
+* [Gintama: The Movie: The Final Chapter: Be Forever Yorozuya](https://en.wikipedia.org/wiki/Gintama:_The_Movie:_The_Final_Chapter:_Be_Forever_Yorozuya) - 2013
+* [Naruto Shippuden Movie 4: The Lost Tower](http://naruto.wikia.com/wiki/Naruto_Shipp%C5%ABden_the_Movie:_The_Lost_Tower) - 2010
 
 ## Books
 
