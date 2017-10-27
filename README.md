@@ -110,9 +110,10 @@ A collection of video games about time travel.
 * [Bioshock: Infinite](https://en.wikipedia.org/wiki/BioShock_Infinite) - Irrational Games - 2013
 * [Braid](https://en.wikipedia.org/wiki/Braid_(video_game)) - Number None - 2009
 * [Chronos Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger) - Square - 1995
+* [Final Fantasy XIII-2](https://en.wikipedia.org/wiki/Final_Fantasy_XIII-2) - Square Enix - 2015
 * [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) - Dontnod Entertainment - 2015
-* [RoboCop versus The Terminator](https://en.wikipedia.org/wiki/RoboCop_Versus_The_Terminator) - Interplay - 1994
 * [Prince of Persia: The Sans of Time](https://en.wikipedia.org/wiki/Prince_of_Persia) - Ubisoft - 2003
+* [RoboCop versus The Terminator](https://en.wikipedia.org/wiki/RoboCop_Versus_The_Terminator) - Interplay - 1994
 
 ## Contributing
 
