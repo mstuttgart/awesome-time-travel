@@ -107,7 +107,7 @@ A collection of video games about time travel.
 * [Chronos Trigger](https://en.wikipedia.org/wiki/Chrono_Trigger) - Square - 1995
 * [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) - Dontnod Entertainment - 2015
 * [RoboCop versus The Terminator](https://en.wikipedia.org/wiki/RoboCop_Versus_The_Terminator) - Interplay - 1994
-* [Prince of Persia: The Sans of Time] (https://en.wikipedia.org/wiki/Prince_of_Persia) - Ubisoft - 2003 
+* [Prince of Persia: The Sans of Time](https://en.wikipedia.org/wiki/Prince_of_Persia) - Ubisoft - 2003 
 
 ## Contributing
 
