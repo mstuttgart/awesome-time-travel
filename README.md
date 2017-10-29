@@ -55,7 +55,7 @@ A collection of comics, manga about time travel.
 
 A collection of movies about time travel.
 
-* [12 Monkeys] (https://en.wikipedia.org/wiki/12_Monkeys) - 1995 - In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+* [12 Monkeys](https://en.wikipedia.org/wiki/12_Monkeys) - 1995 - In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 * [About Time](https://en.wikipedia.org/wiki/About_Time_(2013_film)) - A young british man with the ability to time travel (2013)
 * [Army of Darkness](https://en.wikipedia.org/wiki/Army_of_Darkness) - Medieval sequel to the evil dead staring Bruce Campbell (1992).
 * [Arrival](https://en.wikipedia.org/wiki/Arrival_(film)) - A linguist learns an alien language that allows her to perceive the future and the past (2016).
@@ -79,7 +79,7 @@ A collection of movies about time travel.
 * [O Homem do Futuro](https://pt.wikipedia.org/wiki/O_Homem_do_Futuro) - 2011
 * [Predestination](https://en.wikipedia.org/wiki/Predestination_(film)) - 2014
 * [Project Almanac](https://en.wikipedia.org/wiki/Project_Almanac) - Dean Israelite - 2006 - Group of teens who build a time machine. Chaos insues.
-* [Secret] (https://en.wikipedia.org/wiki/Secret_(2007_film)) - 2007 - A piano prodigy encounters a mysterious student at the art college.
+* [Secret](https://en.wikipedia.org/wiki/Secret_(2007_film)) - 2007 - A piano prodigy encounters a mysterious student at the art college.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
 * [Source Code](https://en.wikipedia.org/wiki/Source_Code) - 2011
 * [Star Trek](https://en.wikipedia.org/wiki/Star_Trek_(film)) - 2009
