@@ -120,6 +120,7 @@ A collection of video games about time travel.
 * [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) - Dontnod Entertainment - 2015
 * [Prince of Persia: The Sans of Time](https://en.wikipedia.org/wiki/Prince_of_Persia) - Ubisoft - 2003
 * [RoboCop versus The Terminator](https://en.wikipedia.org/wiki/RoboCop_Versus_The_Terminator) - Interplay - 1994
+* [Zero Escape: Virtue's Last Reward](https://en.wikipedia.org/wiki/Zero_Escape:_Virtue%27s_Last_Reward) - Spike Chunsoft - 2012
 
 ## Contributing
 
