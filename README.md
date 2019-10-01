@@ -80,6 +80,7 @@ A collection of movies about time travel.
 * [Naked](https://en.wikipedia.org/wiki/Naked_(2017_film)) - 2017
 * [O Homem do Futuro](https://pt.wikipedia.org/wiki/O_Homem_do_Futuro) - 2011
 * [Predestination](https://en.wikipedia.org/wiki/Predestination_(film)) - 2014
+* [Primer](https://en.wikipedia.org/wiki/Primer_(film)) - 2004
 * [Project Almanac](https://en.wikipedia.org/wiki/Project_Almanac) - Dean Israelite - 2006 - Group of teens who build a time machine. Chaos insues.
 * [Secret](https://en.wikipedia.org/wiki/Secret_(2007_film)) - 2007 - A piano prodigy encounters a mysterious student at the art college.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
@@ -91,6 +92,7 @@ A collection of movies about time travel.
 * [Terminator 4: Salvation](https://en.wikipedia.org/wiki/Terminator_Salvation) - 2009
 * [Terminator 5: Genisys](https://en.wikipedia.org/wiki/Terminator_Genisys) - 2015
 * [Timecop](https://en.wikipedia.org/wiki/Timecop) - 1994
+* [Timecrimes](https://en.wikipedia.org/wiki/Timecrimes) - 2007 - A man unwittingly becomes part of a time loop and must stop his other selves from continuing to exist. 
 * [Time Machine, The](https://en.wikipedia.org/wiki/The_Time_Machine_(1960_film)) - 1960
 * [Time Machine, The](https://en.wikipedia.org/wiki/The_Time_Machine_(2002_film)) - 2002
 * [Time Traveller's Wife](https://en.wikipedia.org/wiki/The_Time_Traveler%27s_Wife_(film)) - 2009 - A love story about a man who travels through time, and what his wife deals with his random disappearances.
@@ -118,6 +120,7 @@ A collection of video games about time travel.
 * [Life Is Strange](https://en.wikipedia.org/wiki/Life_Is_Strange) - Dontnod Entertainment - 2015
 * [Prince of Persia: The Sans of Time](https://en.wikipedia.org/wiki/Prince_of_Persia) - Ubisoft - 2003
 * [RoboCop versus The Terminator](https://en.wikipedia.org/wiki/RoboCop_Versus_The_Terminator) - Interplay - 1994
+* [Zero Escape: Virtue's Last Reward](https://en.wikipedia.org/wiki/Zero_Escape:_Virtue%27s_Last_Reward) - Spike Chunsoft - 2012
 
 ## Contributing
 
