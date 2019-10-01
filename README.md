@@ -80,6 +80,7 @@ A collection of movies about time travel.
 * [Naked](https://en.wikipedia.org/wiki/Naked_(2017_film)) - 2017
 * [O Homem do Futuro](https://pt.wikipedia.org/wiki/O_Homem_do_Futuro) - 2011
 * [Predestination](https://en.wikipedia.org/wiki/Predestination_(film)) - 2014
+* [Primer](https://en.wikipedia.org/wiki/Primer_(film)) - 2004
 * [Project Almanac](https://en.wikipedia.org/wiki/Project_Almanac) - Dean Israelite - 2006 - Group of teens who build a time machine. Chaos insues.
 * [Secret](https://en.wikipedia.org/wiki/Secret_(2007_film)) - 2007 - A piano prodigy encounters a mysterious student at the art college.
 * [Somewhere in Time](https://en.wikipedia.org/wiki/Somewhere_in_Time_(film)) - 1980
